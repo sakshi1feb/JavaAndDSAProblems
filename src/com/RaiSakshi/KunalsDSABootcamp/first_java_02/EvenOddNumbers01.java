@@ -1,8 +1,8 @@
-package com.RaiSakshi;
+package com.RaiSakshi.KunalsDSABootcamp.first_java_02;
 
 import java.util.Scanner;
 
-public class EvenOddNumbers {
+public class EvenOddNumbers01 {
     // This program is from Kunal Kushwahas DSA bootcamp of Community classroom
     //In this program we have to input a number and check whether it is even or odd.
     public static void main(String[] args) {

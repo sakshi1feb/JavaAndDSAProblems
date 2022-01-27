@@ -1,8 +1,8 @@
-package com.RaiSakshi;
+package com.RaiSakshi.KunalsDSABootcamp.first_java_02;
 
 import java.util.Scanner;
 
-public class Calculation {
+public class Calculation04 {
 // This program is from Kunal's DSA Bootcamp
 // In this program we input two numbers and an operator and perform calculation
 public static void main(String[] args) {

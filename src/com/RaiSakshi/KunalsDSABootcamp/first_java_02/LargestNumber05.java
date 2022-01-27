@@ -1,8 +1,8 @@
-package com.RaiSakshi;
+package com.RaiSakshi.KunalsDSABootcamp.first_java_02;
 
 import java.util.Scanner;
 
-public class LargestNumber {
+public class LargestNumber05 {
     // This program is from Kunal's DSA Bootcamp
     // In this program we have to take two numbers as input and print the largest number.
     public static void main(String[] args) {

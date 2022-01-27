@@ -1,4 +1,4 @@
-package com.RaiSakshi;
+package com.RaiSakshi.CodeStudioJavaPrograms;
 
 import java.util.Scanner;
 
