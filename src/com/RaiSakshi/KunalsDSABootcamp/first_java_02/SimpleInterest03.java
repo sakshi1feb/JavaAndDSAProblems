@@ -1,8 +1,8 @@
-package com.RaiSakshi;
+package com.RaiSakshi.KunalsDSABootcamp.first_java_02;
 
 import java.util.Scanner;
 
-public class SimpleInterest {
+public class SimpleInterest03 {
     // This program is from Kunal's DSA Bootcamp
     // Where we calculate simple interest in taking principal, time and rate as input.
     public static void main(String[] args) {

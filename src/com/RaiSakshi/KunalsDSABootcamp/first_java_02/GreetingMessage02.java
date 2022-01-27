@@ -1,8 +1,8 @@
-package com.RaiSakshi;
+package com.RaiSakshi.KunalsDSABootcamp.first_java_02;
 
 import java.util.Scanner;
 
-public class GreetingMessage {
+public class GreetingMessage02 {
     // This program is from Kunal's DSA Bootcamp
     // IN this program we have to take a name as input and print a greeting message for the name.
     public static void main(String[] args) {
