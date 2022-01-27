@@ -8,7 +8,7 @@ public class VolumeOfSphere {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter radius of sphere ");
         double r=sc.nextDouble();
-        double volume =4/3*3.14*r*r*r;
+        double volume =4*3.14*r*r*r/3;
         System.out.println("Volume of Sphere is "+volume);
     }
 }
