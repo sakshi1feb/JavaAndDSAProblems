@@ -2,7 +2,7 @@ package com.RaiSakshi.KunalsDSABootcamp.Conditionals_loops03.IntermediateJavaPro
 
 import java.util.Scanner;
 
-public class DiscountCalculator {
+public class Q4DiscountCalculator {
     // A program to calculate discount on product
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
