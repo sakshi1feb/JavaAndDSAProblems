@@ -2,7 +2,7 @@ package com.RaiSakshi.KunalsDSABootcamp.Conditionals_loops03.IntermediateJavaPro
 
 import java.util.Scanner;
 
-public class PalindromeNumber {
+public class Q18PalindromeNumber {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter a number ");
