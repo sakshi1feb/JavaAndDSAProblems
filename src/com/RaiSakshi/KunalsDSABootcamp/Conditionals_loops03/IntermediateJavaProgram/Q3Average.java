@@ -2,7 +2,7 @@ package com.RaiSakshi.KunalsDSABootcamp.Conditionals_loops03.IntermediateJavaPro
 
 import java.util.Scanner;
 
-public class Average {
+public class Q3Average {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter number of terms");
