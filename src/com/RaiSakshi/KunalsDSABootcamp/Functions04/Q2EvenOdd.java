@@ -2,7 +2,7 @@ package com.RaiSakshi.KunalsDSABootcamp.Functions04;
 
 import java.util.Scanner;
 
-public class EvenOdd {
+public class Q2EvenOdd {
     // A function to find if a number is even or odd.
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

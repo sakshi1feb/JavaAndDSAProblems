@@ -1,7 +1,7 @@
 package com.RaiSakshi.KunalsDSABootcamp.Functions04;
 import java.util.Scanner;
 
-public class MaximumAndMinimum {
+public class Q1MaximumAndMinimum {
     // A program to define two methods to print the maximum and the minimum number respectively among three
     // numbers entered by the user.
     public static void main(String[] args) {
