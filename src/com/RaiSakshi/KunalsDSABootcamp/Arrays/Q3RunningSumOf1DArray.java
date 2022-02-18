@@ -1,4 +1,5 @@
 package com.RaiSakshi.KunalsDSABootcamp.Arrays;
+
 import java.util.*;
 public class Q3RunningSumOf1DArray {
     public static int[] runningSum(int[] num) {
