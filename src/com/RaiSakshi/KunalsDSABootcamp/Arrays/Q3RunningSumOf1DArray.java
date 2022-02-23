@@ -17,6 +17,6 @@ public class Q3RunningSumOf1DArray {
         int[] num = new int [10];
         for(int i=0;i<num.length;i++)
             num[i]=sc.nextInt();
-        System.out.println("The new Array is "+runningSum(num));
+        System.out.println("The new Array is "+ Arrays.toString(runningSum(num)));
     }
 }
