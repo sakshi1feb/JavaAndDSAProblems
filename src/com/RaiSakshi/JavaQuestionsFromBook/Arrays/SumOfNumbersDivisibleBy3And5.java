@@ -24,3 +24,11 @@ public class SumOfNumbersDivisibleBy3And5 {
         return sum;
     }
 }
+
+
+/*
+ n=3
+ arr.length =6
+ [1,2,3,4,7,8]
+ [1,4,2,7,3,8]
+ */
