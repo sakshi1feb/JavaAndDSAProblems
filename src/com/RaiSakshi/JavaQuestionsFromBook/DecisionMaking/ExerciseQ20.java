@@ -2,7 +2,7 @@ package com.RaiSakshi.JavaQuestionsFromBook.DecisionMaking;
 
 import java.util.Scanner;
 
-public class ExerciseQ20 {
+public class Exercise20 {
     // Pg 128 Q20
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
