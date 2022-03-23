@@ -6,9 +6,9 @@ public class Pattern30 {
             for(int sp=1;sp<=5-i;sp++)
                 System.out.print("  ");
             for(int j=i;j>=1;j--)
-                System.out.print(j+"  ");
+                System.out.print(j+" ");
             for(int c=2;c<=i;c++)
-                System.out.print(c+"  ");
+                System.out.print(c+" ");
             System.out.println();
         }
     }
