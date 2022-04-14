@@ -10,7 +10,7 @@ public class ExerciseQ1 {
         pattern2(10);
         pattern3(10);
         pattern4(10);
-        //pattern5(10);
+        pattern5(10);
     }
     static void pattern1(int n) {
         int v = 1;
@@ -56,5 +56,12 @@ public class ExerciseQ1 {
              inc+=2;
          }
             System.out.println();
+        }
+        static void pattern5(int n){
+        for(int i=1;i<n;i++){
+            for(int j=1;j<=i;j++)
+                System.out.print(j);
+            System.out.print(", ");
+        }
         }
 }
