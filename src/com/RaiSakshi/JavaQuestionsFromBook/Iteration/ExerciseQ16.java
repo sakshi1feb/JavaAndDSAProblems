@@ -5,14 +5,40 @@ import java.util.Scanner;
 public class ExerciseQ16 {
     // series question
     public static void main(String [] args){
-        seriesA();
-        seriesB();
-        seriesC();
+        //seriesA();
+        //seriesB();
+        //seriesC();
+        //series4();
+        seriesE();
+    }
+
+    static void seriesE() {
+        for(int i=1;i<=10;i++){
+            System.out.print("(1");
+            for(int j=2;j<=i;j++)
+                System.out.print("+"+j);
+            System.out.print(") + ");
+        }
+    }
+
+    static void series4() {
+        for(int i=1;i<=19;i++){
+            System.out.print("\n("+i+"*"+(i+1)+") + ");
+        }
     }
 
     static void seriesC() {
         Scanner sc=new Scanner(System.in);
-        
+        System.out.println("\nEnter value of n for series 3");
+        int n=sc.nextInt();
+        int j=2;
+        for(int i=1;i<=n/2;i++){
+            if(i%2!=0)
+                System.out.print(j);
+            else
+                System.out.print(" - "+j +" + ");
+            j+=2;
+        }
     }
 
     static void seriesB(){
