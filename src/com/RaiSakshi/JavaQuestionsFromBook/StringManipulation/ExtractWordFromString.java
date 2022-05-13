@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ExtractWordFromString {
     /*
-    Write a program to accept a name and display the new string after reversing each character of the word.
+    Write a program to accept a name and display all the words in that string.
      */
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
