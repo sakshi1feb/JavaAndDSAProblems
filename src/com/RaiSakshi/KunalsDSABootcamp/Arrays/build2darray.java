@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class build2darray {
     /*
-    a simple program to create an 2d array 
+    a simple program to create an 2d array
      */
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
